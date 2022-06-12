@@ -700,3 +700,38 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/vs,visualstudiocode,jetbrains+all,angular,visualstudio
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+yarn-error.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+
+.angular
